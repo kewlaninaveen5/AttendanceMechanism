@@ -1,0 +1,28 @@
+.Student {
+    font: sans-serif;
+    display: inline-block;
+    color: cornflowerblue;
+    margin: 5px;
+    padding: 5px;
+    /* border-color: solid black; */
+    border: solid black 2px;
+    border-radius: 10px;
+    width: 40%;
+}
+
+ .Present {
+
+    display: inline-block;
+    padding: 3px;
+    color: green;
+    align-self: flex-end;
+    
+    
+}
+
+/* .Absent {
+    padding: 3px;
+    color: white;
+    background-color: #red;
+    border: red 2px;
+}  */
